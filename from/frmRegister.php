@@ -73,12 +73,10 @@ include("header.php")
                 <button class="btn btn-outline-success me-2" type="reset"><i class="bi bi-shield-fill-exclamation"></i> ยกเลิก</button>
                 <center>
                 </form>
-
             </div>
         </div>
     </div>
 </main>
-
 <?php
 include("footer.php")
 ?>
